@@ -188,7 +188,7 @@
     }
 
     @include on1280px {
-      position: absolute;
+      position: relative;
       order: 0;
       width: 590px;
     }
